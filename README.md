@@ -41,8 +41,7 @@ Ensure you have the following Python packages installed:
 
 Results
 
-	•	Model Performance: Evaluates accuracy across different models and k-fold values.
-	•	Prediction Files: Outputs prediction results to RandomForest_Predictions.csv and SVM_Predictions.csv
+	•	Model Performance: Evaluates accuracy across SVM and Random Forest models and k-fold values.
  	•	SVM achieved a slightly higher average accuracy compared to Random Forest but may be less scalable and more complex to implement.
 	•	Random Forest offers robustness to overfitting and better scalability, making it a viable choice for larger datasets despite its slightly lower accuracy.
 
