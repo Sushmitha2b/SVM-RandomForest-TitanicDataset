@@ -27,7 +27,7 @@ Files
 	•	test.csv: The testing dataset.
 	•	RandomForest_Predictions.csv: Predictions made by the Random Forest model.
 	•	SVM_Predictions.csv: Predictions made by the SVM model.
-	•	titanic_prediction.py: The main Python script for data processing, model training, and evaluation.
+	•	titanic_prediction.ipynb: The main Python script for data processing, model training, and evaluation.
 
 Requirements
 
