@@ -5,21 +5,21 @@ This project involves predicting the survival of passengers aboard the Titanic u
 Project Overview
 
 	1.	Data Preparation:
-  	•	Load the training and testing datasets.
-  	•	Handle missing values and preprocess the data by dropping irrelevant columns and filling in missing values.
-  	•	Convert categorical variables to numerical values and create new features.
+	  	•	Load the training and testing datasets.
+	  	•	Handle missing values and preprocess the data by dropping irrelevant columns and filling in missing values.
+	  	•	Convert categorical variables to numerical values and create new features.
 	2.	Exploratory Data Analysis (EDA):
-  	•	Visualize the survival rate based on different features such as Sex, Pclass, SibSp, Parch, and AgeGroup.
+	  	•	Visualize the survival rate based on different features such as Sex, Pclass, SibSp, Parch, and AgeGroup.
 	3.	Feature Engineering:
-  	•	Convert continuous features into categorical bins.
-  	•	Map categorical features to numerical values.
-  	•	Create new features based on existing data.
+	  	•	Convert continuous features into categorical bins.
+	  	•	Map categorical features to numerical values.
+	  	•	Create new features based on existing data.
 	4.	Model Training and Evaluation:
-  	•	Train and evaluate models using Random Forest and Support Vector Machine (SVM) classifiers.
-  	•	Perform k-fold cross-validation to assess model performance.
-  	•	Save predictions to CSV files.
+	  	•	Train and evaluate models using Random Forest and Support Vector Machine (SVM) classifiers.
+	  	•	Perform k-fold cross-validation to assess model performance.
+	  	•	Save predictions to CSV files.
 	5.	Results:
-  	•	Compare model accuracies and visualize results.
+	  	•	Compare model accuracies and visualize results.
 
 Files
 
